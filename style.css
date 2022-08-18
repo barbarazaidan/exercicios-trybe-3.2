@@ -1,0 +1,32 @@
+h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+    color: orange;
+    font-style: oblique;
+}
+ul {
+    background-color: rgb(60, 179, 113);
+    line-height: 55px;
+    font-size: 2em;
+    text-decoration:rgb(226, 43, 171) underline wavy;
+}
+.cores  {
+    background-color: aquamarine;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+    text-align: center;
+}
+body {
+    font-size: 16px;
+}
+#green {
+    background-color: green;
+}
+#burgundy {
+    background-color: rgb(114, 57, 57);
+}
+#blue {
+    background-color: blue;
+}
